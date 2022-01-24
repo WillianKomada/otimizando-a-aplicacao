@@ -50,6 +50,6 @@ $ yarn server
 
 ---
 
-## 🚀 Next Level
+## 🚀🔥 Next Level
 
 Essa é uma aplicação next level de <a>https://github.com/WillianKomada/componentizando-a-aplicacao.git</a>, com otimizações de performance.
